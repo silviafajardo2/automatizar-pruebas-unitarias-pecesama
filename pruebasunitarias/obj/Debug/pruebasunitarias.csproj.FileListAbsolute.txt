@@ -1,0 +1,2 @@
+c:\users\pedro\documents\visual studio 2015\Projects\pruebasunitarias\pruebasunitarias\bin\Debug\pruebasunitarias.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\pruebasunitarias\automatizar-pruebas-unitarias-pecesama\pruebasunitarias\bin\Debug\pruebasunitarias.exe.config
